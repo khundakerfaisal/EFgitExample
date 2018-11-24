@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitsampleConsoleApp
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-           Student student= new Student();
-
-        }
     }
 }
